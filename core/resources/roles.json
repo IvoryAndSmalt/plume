@@ -1,0 +1,14 @@
+{
+  "admin": {
+    "parent": ""
+  },
+  "editor": {
+    "parent": "admin"
+  },
+  "author": {
+    "parent": "editor"
+  },
+  "subscriber": {
+    "parent": "author"
+  }
+}
